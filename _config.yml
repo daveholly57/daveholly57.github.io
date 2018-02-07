@@ -1,6 +1,11 @@
-# SimPoll.org
+name: SimPoll.org
 
-SimPoll.org is a "disruptive" Polling Website written in Python with Django.  The database is PostgreSQL.  
+description: SimPoll.org is a "disruptive" Polling Website 
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars3.githubusercontent.com/u/33816118?s=460&v=4
+
+SimPoll is Written in Python with Django.  The database is PostgreSQL.  
 
 SimPoll allows you to record you opinions and positions on current Social and Political issues.  SimPoll boils issue questions down to just one question.  Questions are not permitted to have a "slant", or a "bias" of any kind.  
 
@@ -23,9 +28,6 @@ Python 3.6.2 and PostgreSQL 9.5 and . . .
 8. pytz == 2017.2
 9. redis == 2.10.6 
 10. six == 1.11.0
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
