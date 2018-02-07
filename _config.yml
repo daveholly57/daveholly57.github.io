@@ -4,6 +4,7 @@ description: SimPoll.org is a "disruptive" Polling Website
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/33816118?s=460&v=4
+-------------------------------
 
 SimPoll is Written in Python with Django.  The database is PostgreSQL.  
 
