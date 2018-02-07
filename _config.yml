@@ -9,7 +9,7 @@ For example, instead of leading questions to try and determine why or how a pers
 Are you for or against abortion?
 
 
-Requires:
+# Requires the following
 
 Python 3.6.2 and PostgreSQL 9.5 and . . .
 
