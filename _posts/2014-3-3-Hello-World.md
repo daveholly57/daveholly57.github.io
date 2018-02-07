@@ -1,14 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: What is SimPoll.org?
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
 # SimPoll.org
 
 SimPoll.org is a "disruptive" Polling Website written in Python with Django.  The database is PostgreSQL.  
@@ -19,8 +12,7 @@ For example, instead of leading questions to try and determine why or how a pers
 
 Are you for or against abortion?
 
-
-Requires:
+SimPoll Requires:
 
 Python 3.6.2 and PostgreSQL 9.5 and . . .
 
