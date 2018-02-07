@@ -1,5 +1,13 @@
 ---
 layout: post
+title: LOOKING FOR TALENTED PROGAMMERS
+---
+
+Django/Python coders needed.  Experience in PostgreSQL is nice.
+
+
+---
+layout: post
 title: What is SimPoll.org?
 ---
 # SimPoll.org
