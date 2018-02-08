@@ -19,7 +19,7 @@ The biggest difference between SimPoll.org and the other polling organizations w
 
 To illustrate - one of the most slanted questions I ever saw asked, “Do you want to see young women die in back alley abortions because the right to choose was taken away?”  I don’t care which side of that issue you find yourself, you have to agree that this is a heavily slanted question.  Instead, SimPoll.org will ask . . .
 
-	Are you for or against abortion?
+[Are you for or against abortion?]
 
 I think you will agree that this is the only fair way to discover what we are all thinking.
 
